@@ -20,6 +20,7 @@ public class week5 {
 	     Cardenas.display();
 
         Orolfo.display();
+        Manuba.display();
 
 
 
