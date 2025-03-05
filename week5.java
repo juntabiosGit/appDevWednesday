@@ -24,7 +24,12 @@ public class week5 {
         Elloren.display();
 
 
+
+	     Cardenas.display();
+         Brisulda.display();
+
 	      Cardenas.display();
+
 
         Orolfo.display();
 
