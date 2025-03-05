@@ -77,6 +77,7 @@ public class week5 {
 	Lampa.display();
 
 	      Batayola.display();
+        Gigante.display();
 
 
 
