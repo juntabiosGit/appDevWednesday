@@ -27,6 +27,7 @@ public class week5 {
 
         Orolfo.display();
         Manuba.display();
+	Batayola.display();
 
 
 
