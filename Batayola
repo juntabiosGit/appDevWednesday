@@ -6,3 +6,4 @@ public class Batayola{
     System.out.println("Next year, I will be " + (age + 1));
   }
 }
+
