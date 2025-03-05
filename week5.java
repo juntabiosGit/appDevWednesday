@@ -3,6 +3,19 @@ public class week5 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
+
         Gardoce.display(); // Add your method call here
+
+        
+
+        Elloren.display();
+
+
+	     Cardenas.display();
+
+        Orolfo.display();
+
+
+
     }
 }
