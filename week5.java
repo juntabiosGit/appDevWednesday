@@ -34,9 +34,13 @@ public class week5 {
         Manuba.display();
 
 	Batayola.display();
+
+	Reginio.display();
+
 	Lampa.display();
 
 	      Batayola.display();
+
 
 
 
