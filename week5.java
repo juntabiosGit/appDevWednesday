@@ -32,7 +32,12 @@ public class week5 {
         Gupid.display();
 
         Manuba.display();
+
+	Batayola.display();
+	Lampa.display();
+
 	      Batayola.display();
+
 
 
 
