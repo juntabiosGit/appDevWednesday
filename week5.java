@@ -4,6 +4,9 @@ public class week5 {
 
         // Call each student's method
 
+        //Olimberio.display(); // Add your method call here
+
+
         Gardoce.display(); // Add your method call here
 
         
@@ -14,6 +17,7 @@ public class week5 {
 	     Cardenas.display();
 
         Orolfo.display();
+
 
 
 
