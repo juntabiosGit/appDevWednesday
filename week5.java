@@ -18,6 +18,7 @@ public class week5 {
 
         Gardoce.display(); // Add your method call here
 
+        Nati.display();
         
 
         Elloren.display();
