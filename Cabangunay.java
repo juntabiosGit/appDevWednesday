@@ -4,7 +4,7 @@ public class Cabangunay {
     public static void display() {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Hello! This is DelaCruz contributing to the project.");
+        System.out.println("Hello! This is Cabangunay contributing to the project.");
         System.out.print("Enter your age: ");
         int age = scanner.nextInt();
 
