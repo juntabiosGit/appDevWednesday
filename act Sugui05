@@ -1,0 +1,8 @@
+public class Sugui{
+ public static void display(){
+ int age= 21;
+ System.out.println("Hello this is Sugui contributing to the project.");
+System.out.println("My current age is: " + age);
+        System.out.println("Next month, I will be: " + (age + 1));
+    }
+}
