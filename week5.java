@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 public class week5 {
     public static void main(String[] args) {
         System.out.println("Collaborative Java Project\n");
@@ -31,20 +29,6 @@ public class week5 {
         Manuba.display();
 	//Batayola.display();
 
-
-
-
-
-    }
-}
-
-
-=======
-
-
-public class week5 {
-    public static void main(String[] args) {
-        System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
         Andes.display(); // Add your method call here
@@ -114,7 +98,7 @@ public class week5 {
 
 	Batayola.display();
 
-	Reginio.display();
+	//Reginio.display();
 
 	Lampa.display();
 
@@ -129,7 +113,3 @@ public class week5 {
 
     }
 }
-
-
-
->>>>>>> 6a10861e86833b07aa529453df9c9015ba20331f
