@@ -4,6 +4,8 @@ public class week5 {
         System.out.println("Collaborative Java Project\n");
 
         // Call each student's method
+        Fonte.display(); // Add your method call here
+  
         Andes.display(); // Add your method call here
  
 
@@ -32,4 +34,5 @@ public class week5 {
 
     }
 }
+
 
