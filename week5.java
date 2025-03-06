@@ -10,6 +10,8 @@ public class week5 {
 
         DelaCruz.display();
 
+        Miranda.display(); // Add your method call here
+
         // Call each student's method
 
         Olimberio.display(); // Add your method call here
