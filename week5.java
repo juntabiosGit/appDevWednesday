@@ -11,6 +11,9 @@ public class week5 {
         DelaCruz.display();
 
         // Call each student's method
+        Beo.display(); // Add your method call here
+
+        // Call each student's method
 
         Olimberio.display(); // Add your method call here
 
