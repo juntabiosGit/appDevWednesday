@@ -77,8 +77,8 @@ public class week5 {
 	Lampa.display();
 
 	      Batayola.display();
-
-
+        
+       Intia.display();
 
 
 
