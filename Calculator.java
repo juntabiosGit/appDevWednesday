@@ -8,7 +8,7 @@ public class Calculator {
         return a * b;
 
    
-    // Group 2: Subtraction (Members: Brisulda)
+    // Group 2: Subtraction (Members: Brisulda, Nati )
     public static int subtract(int a, int b) {
         return a - b;
 
