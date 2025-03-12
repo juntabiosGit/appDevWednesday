@@ -1,7 +1,7 @@
 // Calculator.java
 public class Calculator {
-    // Group 3: multiply(Members: Elloren)
-    public static int multiple(int a, int b) {
+    // Group 3: multiply(Members: Elloren, Fonte, Cabangunay)
+    public static int multiply(int a, int b) {
         return a * b;
     }
    
