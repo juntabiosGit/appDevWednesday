@@ -16,3 +16,7 @@ public class Calculator {
 
     // Other groups will add their methods here
 }
+// Group 6: Square (Members: Orolfo, Laygan)
+public static int square(int a) {
+    return a * a;
+}
