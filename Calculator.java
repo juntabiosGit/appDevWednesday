@@ -6,15 +6,14 @@ public class Calculator {
         return a + b;
     }
 
-// Group 6: Square (Members: Orolfo, Laygan)
-public static int square(int a) {
-    return a * a;
-}
-
     // Group 10: Check if numbers are equal (Members: Jake, Emily, Ryan)
     public static boolean isEqual(int a, int b) {
         return a == b;
     }
 
     // Other groups will add their methods here
+}
+// Group 6: Square (Members: Orolfo, Laygan)
+public static int square(int a) {
+    return a * a;
 }
