@@ -98,11 +98,15 @@ public class week5 {
 
 	Batayola.display();
 
+        Ongue.display();
+
+
 	//Reginio.display();
 
 	Lampa.display();
 
 	      Batayola.display();
+
 
 
 
