@@ -1,0 +1,9 @@
+// Calculator.java
+public class Calculator {
+   
+    // Group 5: Modulus (Members: Mirandilla,Gardoce,Gupid,Ongue,Gigante,Capuno)
+    public static int mod(int a, int b) {
+        return a % b;
+    }
+
+}
