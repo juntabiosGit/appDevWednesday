@@ -1,7 +1,7 @@
-
+// Group 4: divide (Members: MANGUNAY, MANUBA, LAMPA, BEA, PACENCIA)
 public static int divide(int a, int b) {
     return a / b; //
-=======
+
 // Calculator.java
 public class Calculator {
     // Group 3: multiply(Members: Elloren)
