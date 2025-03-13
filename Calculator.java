@@ -1,6 +1,6 @@
 // Calculator.java
 public class Calculator {
-    // Group 3: multiply(Members: Elloren)
+    // Group 3: multiply(Members: Elloren, Beo, Fonte, Cabangunay, Reginio)
     public static int multiple(int a, int b) {
         return a * b;
     }
