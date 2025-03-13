@@ -11,7 +11,7 @@ public class GroupWork   {
        
         // Calling methods from Calculator.java
 
-        System.out.println("Sum: " + Calculator.multiple(num1, num2));  // Group 2's method
+        System.out.println("Sum: " + Calculator.multiply(num1, num2));  // Group 2's method
 
         System.out.println("subtract: " + Calculator.add(num1, num2));  // Group 2's method
         
