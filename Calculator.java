@@ -1,3 +1,8 @@
+
+// Group 4:divide(Members:Manuba, Mangunay, Lampa, Pacencia, Bea)
+public static int divide(int a, int b) {
+    return a / b; 
+
 // Calculator.java
 public class Calculator {
     // Group 3: multiply(Members: Elloren)
@@ -17,5 +22,6 @@ public class Calculator {
 public static int square(int a) {
     return a * a;
 }
+
 
 }
