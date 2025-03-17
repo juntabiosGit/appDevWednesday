@@ -1,4 +1,4 @@
-import java.util.Scanner;
+8import java.util.Scanner;
 
 public class GroupWork   {
     public static void main(String[] args) {
@@ -15,6 +15,7 @@ public class GroupWork   {
 
         System.out.println("subtract: " + Calculator.add(num1, num2));  // Group 2's method
         
+        System.out.println("Minimum: " + Calculator.min(num1, num2)); // Group 9's method
 
         //System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
         scanner.close();
