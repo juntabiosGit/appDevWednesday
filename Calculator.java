@@ -16,6 +16,11 @@ public class Calculator {
 // Group 6: Square (Members: Orolfo, Laygan)
 public static int square(int a) {
     return a * a;
+
+// Group 9: Min (Members: Olimberio, Sugui, Impreso, Sapico, Marcos)
+    public static int min(int a, int b) {
+        return Math.min(a, b);
+    }
 }
 
 }
