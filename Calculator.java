@@ -10,6 +10,11 @@ public class Calculator {
         return a - b;
     }
 
+        // group 4: quotient (Member: Paciencia, Bea, Manuba, mangunay, Lampa)
+    public static int divide (int dividend, int divisor){
+        return dividend / divisor;
+    }
+
     // Other groups will add their methods here
 
 
