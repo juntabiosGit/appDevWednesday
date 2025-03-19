@@ -83,3 +83,8 @@ public static int min(int a, int b) {
     return Math.min(a, b);
 }
 
+
+// Group 10:isEqual  ( Stephen)
+public static boolean isEqual(int a, int b) {
+    return a == b;
+
