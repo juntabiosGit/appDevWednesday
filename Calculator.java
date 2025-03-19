@@ -41,6 +41,13 @@ public class Calculator {
         return a - b;
     }
 
+    // Group 4: Divide (Members: Jowel)
+    public static double divide(int a, int b) {
+         return (double) a / b; 
+    }
+
+
+
     // Other groups will add their methods here
 
     // Group 6: Square (Members: Orolfo, Laygan)
