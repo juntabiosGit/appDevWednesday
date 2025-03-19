@@ -1,10 +1,13 @@
 public class Calculator {
 
    
-    // Group 1: Modulos (Members: Mirandilla,)
+
+    // Group 5: Modulus (Members: Gardoce)
+
     public static int mod(int a, int b) {
         return a % b;
     }
+
 
     // Other groups will add their methods here
 }
@@ -25,6 +28,7 @@ public class Calculator {
 // Group 6: Square (Members: Orolfo, Laygan)
 public static int square(int a) {
     return a * a;
+
 }
 
 }
