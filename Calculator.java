@@ -51,7 +51,7 @@ public class Calculator {
         return a - b;
     }
 
-    // Group 4: Divide (Members: Jowel)
+    // Group 4: Divide (Members: Manuba, Bea, Paciencia, Lampa, Mangunay)
     public static double divide(int a, int b) {
          return (double) a / b; 
     }
