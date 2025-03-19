@@ -58,6 +58,10 @@ public static int square(int a) {
 
 }
 
-
+ 
+// Group 9: Min (Members: Olimberio, Sugui, Impreso, Sapico, Marcos)
+public static int min(int a, int b) {
+    return Math.min(a, b);
 }
+
 
