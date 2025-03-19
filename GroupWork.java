@@ -9,6 +9,14 @@ public class GroupWork   {
         System.out.print("Enter second number: ");
         int num2 = scanner.nextInt();
        
+
+     
+        System.out.println("Remainder: " + Calculator.mod(num1, num2));  // Group 5's method
+        
+        scanner.close();
+    }
+}
+
         // Calling methods from Calculator.java
 
         System.out.println("Sum: " + Calculator.multiple(num1, num2));  // Group 2's method
@@ -19,4 +27,5 @@ public class GroupWork   {
         //System.out.println("Are numbers equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
         scanner.close();
     }
+
 
