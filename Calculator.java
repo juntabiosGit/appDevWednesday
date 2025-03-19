@@ -1,3 +1,13 @@
+
+// Group 4: divide(Members: Mangunay, Lampa, Pacencia, Bea, Manuba
+public static int divide(int a, int b) {
+    if (b == 0) {
+        System.out.println("Error: Division by zero is not allowed.");
+        return 0; // 
+    }
+    return a/ b;
+}
+
 public class Calculator {
 
     // Group 3: multiply(Members: Elloren, Fonte, Cabangunay, Beo, Reginio, Miranda)
@@ -41,7 +51,7 @@ public class Calculator {
         return a - b;
     }
 
-    // Group 4: Divide (Members: Jowel)
+    // Group 4: Divide (Members: Manuba, Bea, Paciencia, Lampa, Mangunay)
     public static double divide(int a, int b) {
          return (double) a / b; 
     }
@@ -73,6 +83,8 @@ public static int min(int a, int b) {
     return Math.min(a, b);
 }
 
+
 // Group 10:isEqual  ( Stephen)
 public static boolean isEqual(int a, int b) {
     return a == b;
+
