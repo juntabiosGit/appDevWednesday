@@ -1,5 +1,8 @@
 public class Calculator {
 
+    // Group 3: multiply(Members: Elloren, Fonte, Cabangunay, Beo, Reginio, Miranda)
+
+
     // Group 3: multiply(Members: Elloren,Fonte,Cabangunay,Beo)
  
 public class Calculator {
@@ -24,6 +27,7 @@ public class Calculator {
 }
 
     // Group 3: multiply(Members: Elloren)
+
 
     public static int multiple(int a, int b) {
         return a * b;
