@@ -1,8 +1,7 @@
 public class Calculator {
 
-   
-
-    // Calculator.java
+    // Group 3: multiply(Members: Elloren,Fonte,Cabangunay,Beo)
+ 
 public class Calculator {
    
     // Group 5: Modulus (Members:Mirandilla,Gardoce,Gupid)
@@ -25,6 +24,7 @@ public class Calculator {
 }
 
     // Group 3: multiply(Members: Elloren)
+
     public static int multiple(int a, int b) {
         return a * b;
     }
